@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TableLayoutTest</string>
+    <string name="version">Version</string>
+    <string name="code_name">Code Name</string>
+    <string name="version_1">Android 9.0</string>
+    <string name="version_2">Android 8.0</string>
+    <string name="code_name_1">Pie</string>
+    <string name="code_name_2">Oreo</string>
+    <string name="add">ADD</string>
+</resources>
