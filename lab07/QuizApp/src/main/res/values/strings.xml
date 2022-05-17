@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">AndroidQuiz</string>
+    <string name="text_start">START</string>
+    <string name="text_home">Home</string>
+    <string name="text_result_analysis">RESULT ANALYSIS</string>
+    <string name="text_play_again">PLAY AGAIN</string>
+    <string name="text_congratulations">Congratulations!</string>
+    <string name="text_next">NEXT</string>
+    <string name="hint_question">Question</string>
+    <string name="hint_option_a">Option A</string>
+    <string name="text_option_b">Option B</string>
+    <string name="text_option_c">Option C</string>
+    <string name="text_option_d">Option D</string>
+    <string name="text_loading">Loading...</string>
+    <string name="text_empty_database">There isn\'t data yet!</string>
+    <string name="hint_score">Score: 5/10</string>
+    <string name="miu">Maharishi International University</string>
+    <string name="result_1">
+        1. Choose the correct option related to Android.
+        Correct answer - B) Android is an Operating System
+    </string>
+    
+    <string name="result_2">
+        2. What is an activity in android?
+        Correct answer - C) A activity is a single screen in an application.
+    </string>
+    
+    <string name="result_3">
+        3. The full form of ADB is.
+        Correct answer - B)  Android Debug Bridge
+    </string>
+    
+    <string name="result_4">
+        4. Among the following options choose the one for which Android is based on Linux.
+        Correct answer - D)  All of the above are reasons for which Android is based on Linux.
+    </string>
+    
+    <string name="result_5">
+        5. Among the below virtual machines choose the one which is used by the Android operating system
+        Correct answer - A)  Android uses Dalvik operating system.
+    </string>
+    
+    <string name="result_6">
+        6. Identify the language on which Android is based upon.
+        Correct answer - C) Android is based upon Java.
+    </string>
+    
+    <string name="result_7">
+        7. All layout classes are the subclasses of
+        Correct answer - C) all layout classes are the subclasses of android.view.ViewGroup in android.
+    </string>
+    
+    <string name="result_8">
+        8. The full form of APK is
+        Correct answer - C) APK stands for Android package kit.
+    </string>
+    
+    <string name="result_9">
+        9. What is manifest XML in android?
+        Correct answer - B) It has all the information about an application
+    </string>
+    
+    <string name="result_10">
+        10. What is the use of a content provider in Android?
+        Correct answer - C) A content provider is used to share information between Android applications.
+    </string>
+    
+    <string name="result_11">
+        11. While developing android application developers can test their apps on
+        Correct answer - D) Apps can be tested in all the sources mentioned above.
+    </string>
+    
+    <string name="result_12">
+        12. In android, mini activities are also known as
+        Correct answer - C) In android, mini activities are also known as Fragments
+    </string>
+    
+    <string name="result_13">
+        13. Among the following choose the one which converts Java bytecode into Dalvik bytecode
+        Correct answer - A)  dex compiler converts convert JAVA bytecode into Dalvik bytecode.
+    </string>
+    
+    <string name="result_14">
+        14. The services in android can be stopped using which of the following method?
+        Correct answer - B) stopSelf() and stopService() method can be used to stop services in android.
+    </string>
+    
+    <string name="result_15">
+        15. Activity in Android can be killed using?
+        Correct answer - D) Activity in Android can be killed using both finishActivity (int requestCode) and finish() method.
+    </string>
+
+</resources>
